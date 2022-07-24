@@ -21,7 +21,8 @@ function App() {
 
   return (
     <main>
-      <section>
+      <section>react-hooks-use-effect-lab
+
         {currentQuestion ? (
           <Question
             question={currentQuestion}
